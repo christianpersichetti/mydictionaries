@@ -9,9 +9,9 @@ person["pets"] = {"dog": "Fido", "cat": "Sox"}
 print(person)
 
 #print out the name of the second child
-print()
+
 #print out the name of the cat
-print()
+
 #iterate through all children and print out each child
 
 

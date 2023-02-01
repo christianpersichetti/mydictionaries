@@ -20,7 +20,6 @@ print('*****  end section 1 ********')
 print()
 
 
-'''
 
 
 print()
@@ -186,6 +185,4 @@ print(phonebook[random.choice(list(phonebook))])
 print()
 print('*****  end section 9 ********')
 print()
-
-
 """
