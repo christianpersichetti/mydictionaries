@@ -5,12 +5,12 @@ def main():
    card_deck = create_deck()
 
     # Get the number of cards to deal.
-    num_cards= int(input('How many cards should I deal? '))
+   num_cards= int(input('How many cards should I deal? '))
 
 
 
     # Deal the cards.
-    deal_cards(card_deck, num_cards)
+   deal_cards(card_deck, num_cards)
 
     
     
